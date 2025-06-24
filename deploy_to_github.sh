@@ -31,9 +31,7 @@ Author: George Dorochov
 Email: jordanaftermidnight@gmail.com
 Project: PP3 Pandas
 
-🤖 Generated with Claude Code
-
-Co-Authored-By: Claude <noreply@anthropic.com>"
+Project by George Dorochov"
 
 # Add GitHub remote
 echo "Adding GitHub remote..."
